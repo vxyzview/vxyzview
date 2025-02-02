@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&section=header&text=vxyzview&fontSize=60&fontColor=D4E5FE&animation=fadeIn&desc=Learning%20Kernel%20Development&descSize=20&descAlignY=75&descColor=6B7280" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&section=header&text=Hello%20there!%20I'm%20vxyzview&fontSize=60&fontColor=D4E5FE&animation=fadeIn&desc=Learning%20Kernel%20Development&descSize=20&descAlignY=75&descColor=6B7280" />
 
 <div align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=vxyzview&cc=38517A&tc=D4E5FE&ic=F4858B&bc=0000" />
