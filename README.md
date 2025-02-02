@@ -16,11 +16,11 @@ const ABOUT_ME: Developer = Developer {
 
 <div align="center">
 
-[![Linux](https://img.shields.io/badge/Linux-38517A?style=flat&logo=linux&logoColor=white)](https://www.linux.org/)
-[![Android](https://img.shields.io/badge/Android-D4E5FE?style=flat&logo=android&logoColor=white)](https://www.android.com/)
-[![C](https://img.shields.io/badge/C-D4E5FE?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Tools](https://img.shields.io/badge/VIM-D4E5FE?style=flat&logo=vim&logoColor=white)](https://www.vim.org/)
-[![Git](https://img.shields.io/badge/Git-D4E5FE?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![Linux](https://img.shields.io/badge/Linux-38517A?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
+[![Android](https://img.shields.io/badge/Android-38517A?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
+[![C](https://img.shields.io/badge/C-38517A?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Tools](https://img.shields.io/badge/VIM-38517A?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/)
+[![Git](https://img.shields.io/badge/Git-38517A?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 ---
 
