@@ -19,10 +19,6 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=1E293B&height=60&section=header&text=📊%20GitHub%20Stats&fontSize=35&fontColor=D4E5FE&animation=fadeIn&font=JetBrains%20Mono" />
-</p>
-
-<p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=vxyzview&cc=0F172A&tc=D4E5FE&ic=F4858B&bc=0000" style="max-width: 100%;" />
 </p>
 
