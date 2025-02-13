@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&section=header&text=Hello%20there!%20I'm%20vxyzview&fontSize=60&fontColor=D4E5FE&animation=fadeIn&desc=Learning%20Kernel%20Development&descSize=20&descAlignY=75&descColor=6B7280&fontAlign=50&fontAlignY=40&font=JetBrains%20Mono" />
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&section=header&text=Hello%20there!%20I'm%20vxyzview&fontSize=60&fontColor=D4E5FE&animation=fadeIn&desc=Learning%20Kernel%20Development&descSize=20&descAlignY=75&descColor=D4E5FE&fontAlign=50&fontAlignY=40&font=JetBrains%20Mono" />
 </p>
 
 <p align="center">
@@ -7,19 +7,21 @@
 </p>
 
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=vxyzview&cc=0F172A&tc=D4E5FE&ic=F4858B&bc=0000" style="max-width: 100%;" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=vxyzview&cc=0F172A&tc=D4E5FE&ic=D4E5FE&bc=0F172A" style="max-width: 100%;" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-1E293B?style=for-the-badge&logo=linux&logoColor=D4E5FE" />
-  <img src="https://img.shields.io/badge/Android-1E293B?style=for-the-badge&logo=android&logoColor=D4E5FE" />
-  <img src="https://img.shields.io/badge/C-1E293B?style=for-the-badge&logo=c&logoColor=D4E5FE" />
-  <img src="https://img.shields.io/badge/VIM-1E293B?style=for-the-badge&logo=vim&logoColor=D4E5FE" />
-  <img src="https://img.shields.io/badge/Git-1E293B?style=for-the-badge&logo=git&logoColor=D4E5FE" />
+  <img src="https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=D4E5FE" />
+  <img src="https://img.shields.io/badge/macOS-0F172A?style=for-the-badge&logo=apple&logoColor=D4E5FE" />
+  <img src="https://img.shields.io/badge/Android-0F172A?style=for-the-badge&logo=android&logoColor=D4E5FE" />
+  <img src="https://img.shields.io/badge/C-0F172A?style=for-the-badge&logo=c&logoColor=D4E5FE" />
+  <img src="https://img.shields.io/badge/VIM-0F172A?style=for-the-badge&logo=vim&logoColor=D4E5FE" />
+  <img src="https://img.shields.io/badge/Bash/Shell-0F172A?style=for-the-badge&logo=gnubash&logoColor=D4E5FE" />
+  <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=D4E5FE" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=1E293B&height=60&section=header&text=🌐%20Connect&fontSize=35&fontColor=D4E5FE&animation=fadeIn&font=JetBrains%20Mono" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0F172A&height=60&section=header&text=🌐%20Connect&fontSize=35&fontColor=D4E5FE&animation=fadeIn&font=JetBrains%20Mono" />
 </p>
 
 <p align="center">
