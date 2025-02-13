@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/vDRr7y25/Icon-Pfp-Anime-waifu2x-CUnet-16-0x-noise3-GPU.png" width="100%" style="border-radius: 50%; border: 2px solid #D4E5FE;" />
+  <img src="https://i.postimg.cc/vDRr7y25/Icon-Pfp-Anime-waifu2x-CUnet-16-0x-noise3-GPU.png" width="55%" style="border-radius: 50%; border: 2px solid #D4E5FE;" />
 </p>
 
 <p align="center">
