@@ -11,10 +11,6 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=1E293B&height=60&section=header&text=💡%20Tech%20Stack&fontSize=35&fontColor=D4E5FE&animation=fadeIn&font=JetBrains%20Mono" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Linux-1E293B?style=for-the-badge&logo=linux&logoColor=D4E5FE" />
   <img src="https://img.shields.io/badge/Android-1E293B?style=for-the-badge&logo=android&logoColor=D4E5FE" />
   <img src="https://img.shields.io/badge/C-1E293B?style=for-the-badge&logo=c&logoColor=D4E5FE" />
