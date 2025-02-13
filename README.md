@@ -1,33 +1,48 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&section=header&text=Hello%20there!%20I'm%20vxyzview&fontSize=60&fontColor=D4E5FE&animation=fadeIn&desc=Learning%20Kernel%20Development&descSize=20&descAlignY=75&descColor=6B7280&fontAlign=50&fontAlignY=40&font=JetBrains%20Mono" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=1E293B&height=100&section=header&text=Hello,%20I'm%20vxyzview&fontSize=45&fontColor=D4E5FE&animation=fadeIn&font=JetBrains%20Mono" />
+</p>
 
-<div align="center">
-  <img src="https://i.postimg.cc/vDRr7y25/Icon-Pfp-Anime-waifu2x-CUnet-16-0x-noise3-GPU.png" />
-</div>
+<p align="center">
+  <img src="https://i.postimg.cc/vDRr7y25/Icon-Pfp-Anime-waifu2x-CUnet-16-0x-noise3-GPU.png" width="140px" style="border-radius: 50%;" />
+</p>
 
-## About Me
-
-I'm passionate about low-level system development and operating system architecture. Currently focused on learning and contributing to kernel development.
-
-## Core Interests
-
-- 🐧 Linux Kernel Development
-- 📱 Android System Architecture
-- ⚙️ Operating Systems Design
-
-## Technologies
-
-![Linux](https://img.shields.io/badge/Linux-38517A?style=flat-square&logo=linux&logoColor=white)
-![Android](https://img.shields.io/badge/Android-38517A?style=flat-square&logo=android&logoColor=white)
-![C](https://img.shields.io/badge/C-38517A?style=flat-square&logo=c&logoColor=white)
-![VIM](https://img.shields.io/badge/VIM-38517A?style=flat-square&logo=vim&logoColor=white)
-![Git](https://img.shields.io/badge/Git-38517A?style=flat-square&logo=git&logoColor=white)
-
-<div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=vxyzview&cc=38517A&tc=D4E5FE&ic=F4858B&bc=0000" />
-</div>
+<p align="center">
+  <b>Low-Level System Developer</b>  
+  <br> Linux & Kernel Enthusiast • Passion for OS Architecture  
+</p>
 
 ---
 
-<div align="center">
-  <i>Building the future of systems, one commit at a time</i> 🚀
-</div>
+### **💡 Tech Stack**
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-1E293B?style=for-the-badge&logo=linux&logoColor=D4E5FE" />
+  <img src="https://img.shields.io/badge/Android-1E293B?style=for-the-badge&logo=android&logoColor=D4E5FE" />
+  <img src="https://img.shields.io/badge/C-1E293B?style=for-the-badge&logo=c&logoColor=D4E5FE" />
+  <img src="https://img.shields.io/badge/VIM-1E293B?style=for-the-badge&logo=vim&logoColor=D4E5FE" />
+  <img src="https://img.shields.io/badge/Git-1E293B?style=for-the-badge&logo=git&logoColor=D4E5FE" />
+</p>
+
+---
+
+### **📊 GitHub Stats**
+<p align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=vxyzview&cc=0F172A&tc=D4E5FE&ic=F4858B&bc=0000" style="max-width: 100%;" />
+</p>
+
+---
+
+### **🌐 Connect**
+<p align="center">
+  <a href="https://github.com/vxyzview">
+    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=D4E5FE" />
+  </a>
+  <a href="https://twitter.com/your-handle">
+    <img src="https://img.shields.io/badge/Twitter-0F172A?style=for-the-badge&logo=twitter&logoColor=D4E5FE" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Building the future of systems, one commit at a time.”</i> 🚀  
+</p>
