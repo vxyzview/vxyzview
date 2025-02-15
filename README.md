@@ -21,18 +21,21 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0F172A&height=60&section=header&text=🌐%20Connect&fontSize=35&fontColor=D4E5FE&animation=fadeIn&font=JetBrains%20Mono" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=D4E5FE&size=25&center=true&vCenter=true&width=500&lines=Let's+Connect+and+Build+Together" />
 </p>
 
 <p align="center">
   <a href="https://github.com/vxyzview">
-    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=D4E5FE" />
-  </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/Twitter-0F172A?style=for-the-badge&logo=twitter&logoColor=D4E5FE" />
+    <img src="https://img.shields.io/badge/Follow_my_Kernel_Journey-0F172A?style=for-the-badge&logo=github&logoColor=D4E5FE" />
   </a>
 </p>
 
 <p align="center">
-  <i>“Building the future of systems, one commit at a time.”</i> 🚀  
+  <a href="https://twitter.com/your-handle">
+    <img src="https://img.shields.io/badge/Join_the_Discussion-0F172A?style=for-the-badge&logo=twitter&logoColor=D4E5FE" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=100&section=footer" />
 </p>
