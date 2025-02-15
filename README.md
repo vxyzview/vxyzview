@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=190&section=header&text=Hello%20there!%20I'm%20vxyzview&fontSize=36&fontColor=D4E5FE&animation=fadeIn&fontAlign=50&fontAlignY=40&font=JetBrains%20Mono" />
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&section=header&text=Hello%20there!%20I'm%20vxyzview&fontSize=60&fontColor=D4E5FE&animation=fadeIn&desc=Learning%20Kernel%20Development&descSize=20&descAlignY=75&descColor=D4E5FE&fontAlign=50&fontAlignY=40&font=JetBrains%20Mono" />
 </p>
 
 <div align="center">
@@ -58,7 +58,3 @@
     <img src="https://custom-icon-badges.demolab.com/badge/Contact_Me-0F172A.svg?style=for-the-badge&logo=mail&logoColor=D4E5FE"/>
   </a>
 </div>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=120&section=footer" />
-</p>
